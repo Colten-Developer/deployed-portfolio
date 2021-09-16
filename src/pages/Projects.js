@@ -1,7 +1,6 @@
 
 import React from "react";
 import "../pagesCss/Projects.css"
-import construction from "../images/underConstruction.jpg"
 import magicRing from "../images/magicRing.jpg"
 import restaurant from "../images/Restaurant.JPG"
 import clock from "../images/Clock.JPG"

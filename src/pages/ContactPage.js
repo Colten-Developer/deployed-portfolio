@@ -17,10 +17,10 @@ function ContactPage() {
               <div>
               <h3>Best ways to contact me are:</h3>
                 <ul className = 'child'>
-                    <li><a href="https://linkedin.com/in/colten-ginnis-91197a205" target="_blank">
+                    <li><a href="https://linkedin.com/in/colten-ginnis-91197a205" target="_blank" rel='noreferrer'>
                         <img src={LinkedinLogo} alt="Linkedin Logo" className = 'logos'></img>
                         </a></li>
-                    <li><a href="https://github.com/Colten-Developer" target="_blank">
+                    <li><a href="https://github.com/Colten-Developer" target="_blank" rel='noreferrer'>
                         <img src={GitHubLogo} alt="GitHub Logo" className = 'logos'></img>
                         </a></li>
                     <li><a href="mailto: coltyg1@gmail.com">

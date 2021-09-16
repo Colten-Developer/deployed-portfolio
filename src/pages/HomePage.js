@@ -13,7 +13,7 @@ function HomePage() {
                 <br></br>
                 <div className="flex-container">
                     <div className="flex-item-picture">
-                        <img src={headshot} alt="picture of colten"></img>
+                        <img src={headshot} alt="colten's Headshot"></img>
                     </div>
                     <div className="flex-item-paragraph">
                         <p>
