@@ -1,0 +1,61 @@
+.color-contact {
+    background: #CCCCCC;
+}
+
+h1,h2,h3 {
+    font-family: "Playfair Display", serif;
+    padding-left: .2rem;
+}
+
+form {
+    justify-content: center;
+}
+
+form input, form textarea{
+    margin-bottom: 10px;
+}
+
+form textarea {
+    min-width: 100px;
+    min-height: 50px;
+    width: 100%;
+    height: auto;
+}
+
+.logos {
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 15%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.info {
+    min-width: 80px;
+    min-height: 10px;
+    width: 28%;
+    height:auto;
+}
+
+.parent {
+    height: 16rem;
+    display: flex;
+    flex-direction: row wrap;
+    justify-content: space-evenly;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    }
+    .child {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        padding: 1rem;
+        margin: 1rem;
+        list-style: none;
+    }

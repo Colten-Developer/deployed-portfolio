@@ -1,0 +1,9 @@
+article {
+    font-family: "Roboto", sans-serif;
+    padding-left: .5rem;
+}
+
+h1,h2,h3 {
+    font-family: "Playfair Display", serif;
+    padding-left: .2rem;
+}
