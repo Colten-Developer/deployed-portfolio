@@ -26,10 +26,9 @@ function HomePage() {
                             Software Engineer
                         </h3>
                         <p>
-                            Full stack web development is a life long commitment to continuously learn
-                            the latest and greatest technology,
-                            I love to constantly learn and be pushed to potential. I wish to continue this
-                            trend well into my career.
+                            I enjoy building anything from a small business site to interactive web apps.
+                            While I am currently based in Houston, Texas, I help build websites for people all over the world!
+                            Over the years as a programmer I have tackled dozens of unique challenges and am ready for my next adventure as a Software Engineer!
                         </p>
                         <h3>Top Technologies:</h3>
                         <div class = 'meter'>
