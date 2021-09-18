@@ -18,7 +18,7 @@ function Projects() {
             <div class = 'project-item'>
                 <h3>Restaurant Reservations</h3>
                 <img src = {restaurant} alt = 'Restaurant'></img>
-                <p>description of project</p>
+                <p>A detailed system allowing managers to easily and quickly create, seat, and finish reservations</p>
                 <a href = 'https://github.com/Colten-Developer/Thinkful_Final_Project'>GitHub Project</a>
                 <br></br>
                 <a href = 'https://thinkful-final-front-end.vercel.app/dashboard?date=2021-07-20'>Website for project</a>
@@ -26,15 +26,15 @@ function Projects() {
             <div class = 'project-item'>
                 <h3>Decoder Ring</h3>
                 <img src = {magicRing} alt = 'a magical ring'></img>
-                <p>description of project</p>
+                <p>A cypher encryption and decryption algorithm </p>
                 <a href = 'https://github.com/Colten-Developer/decoderRingProject'>GitHub Project</a>
                 <br></br>
                 <a href = 'https://colten-developer.github.io/decoderRingProject/'>Website for project</a>
             </div>
             <div class = 'project-item'>
-                <h3>project 3</h3>
+                <h3>Pomodoro Timer</h3>
                 <img src = {clock} alt = 'a clock'></img>
-                <p>description of project</p>
+                <p>A timer used to maximize working efficiency</p>
                 <a href = 'https://github.com/Colten-Developer/PomodoroProject'>GitHub Project</a>
             </div>
         </div>
